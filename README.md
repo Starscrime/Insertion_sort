@@ -1,6 +1,6 @@
 Utility sorts lines from the input file and writes output file. Launch with arguments:
 
-<type_input_data> <type_sorting> <input_file> <output_file>;
+java -jar 'type_input_data' 'type_sorting' 'input_file' 'output_file';
 
 <type_input_data> - "-s" if the input data is string; "-i" if the input data is numeric.
 
