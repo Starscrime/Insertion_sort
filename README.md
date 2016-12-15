@@ -5,5 +5,5 @@ Utility sorts lines from the input file and writes output file. Launch with argu
 <input_file> - input data file.
 <output_file> - output data file.
 
-
+Example:
 java -jar sorter.jar -s -a C:\temp\in.txt C:\temp\out.txt
